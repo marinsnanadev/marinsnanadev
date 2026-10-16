@@ -2,6 +2,10 @@
 
 I'm Nana, a Software Developer who loves to write, read and discover new things. 
 
+My live projects: 
+Ecommerce Violet: https://violet-henna.vercel.app/
+Games Dashboard: https://games-dashboard-self.vercel.app/
+
 ## Contact-me: 
 <div>
   <a href="mailto:giannamarins@gmail.com">
